@@ -1,5 +1,18 @@
+Vue.js
 <img src="header.png" alt="header">
+<template>
+  <vue-js-icon size="1.5x" class="custom-class">Vue js</vue-js-icon>
+</template>
 
+<script>
+import { VueJsIcon } from 'vue-simple-icons'
+
+export default {
+  components: {
+    VueJsIcon
+  }
+}
+</script>
 <!--
 **TheDavidGame/TheDavidGame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

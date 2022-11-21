@@ -11,4 +11,4 @@
 ## 👁️ Contact
 - [TheDavidGame#7090](./) on Discord
 - [TheDavidGame](https://t.me/TheDavidGame/) on Telegram
-- [TheDavidGame](https://portfoliothedavidgame.herokuapp.com) portfolio site
+- [My site](https://portfoliothedavidgame.herokuapp.com) portfolio site
